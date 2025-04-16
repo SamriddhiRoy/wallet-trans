@@ -52,4 +52,3 @@ const Sidebar = ({ selectedAddress, data, onToggleNode, addedNodes }) => {
 };
 
 export default Sidebar;
-
