@@ -14,4 +14,24 @@ A React + D3-powered interactive graph for visualizing Bitcoin transactions. Thi
 
 
 ---
+##  Installation & Usage
 
+```bash
+# Clone the repository
+gh repo clone SamriddhiRoy/wallet-trans
+cd wallet-trans
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+##  Dependencies
+ • React
+ • D3.js
+ • Redux Toolkit
+ • React Redux
+
+ ---
